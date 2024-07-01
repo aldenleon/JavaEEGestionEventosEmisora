@@ -1,0 +1,1 @@
+package es.accenture.emisora.entidades;
